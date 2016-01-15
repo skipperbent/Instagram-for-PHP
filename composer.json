@@ -1,11 +1,16 @@
 {
-	"name": "andreyco/instagram",
+	"name": "pecee/instagram-sdk",
 	"type": "library",
 	"description": "An easy-to-use PHP Class for accessing Instagram's API.",
-	"keywords": ["instagram", "api"],
-	"homepage": "https://github.com/Andreyco/Instagram-for-PHP",
+	"keywords": ["instagram", "api", "sdk"],
+	"homepage": "https://github.com/skipperbent/Instagram-for-PHP",
 	"license": "BSD-4-Clause",
 	"authors": [
+		{
+			"name": "Simon Sessingø",
+			"email": "simon.sessingoe@gmail.com",
+			"homepage": "http://www.pecee.dk"
+		},
 		{
 			"name": "Andrej Badin",
 			"email": "contact@andrejbadin.com",
