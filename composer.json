@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "An easy-to-use PHP Class for accessing Instagram's API.",
 	"keywords": ["instagram", "api", "sdk"],
-	"homepage": "https://github.com/skipperbent/Instagram-for-PHP",
+	"homepage": "https://github.com/skipperbent/instagram-php-sdk",
 	"license": "BSD-4-Clause",
 	"authors": [
 		{
